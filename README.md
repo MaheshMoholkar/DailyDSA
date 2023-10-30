@@ -1,1 +1,1 @@
-# DailyDSA
+# daily_dsa
